@@ -1,0 +1,11 @@
+/* Make the plot container responsive */
+#myDiv {
+  width: 100%;
+  height: 100%;
+}
+
+/* Ensure that the plot fills its container */
+.plot-container {
+  width: 100%;
+  height: 100%;
+}
